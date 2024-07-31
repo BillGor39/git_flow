@@ -4,6 +4,12 @@ def hello(name):
 def howareyou():
     print("How are you?")
 
+def aaa():
+    print("aaa")
+
+def bbb():
+    print("bbb")
+
 def main():
     hello("Jack")
     howareyou()
