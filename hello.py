@@ -13,6 +13,9 @@ def aaa():
 def bbb():
     print("bbb")
 
+def ccc():
+    print("ccc")
+    
 def main():
     hello("Jack")
     howareyou()
