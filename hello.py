@@ -6,6 +6,12 @@ def howareyou():
 
 def whatup():
     print("what up")
+=======
+def aaa():
+    print("aaa")
+
+def bbb():
+    print("bbb")
 
 def main():
     hello("Jack")
