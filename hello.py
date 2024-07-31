@@ -6,7 +6,7 @@ def howareyou():
 
 def whatup():
     print("what up")
-=======
+
 def aaa():
     print("aaa")
 
